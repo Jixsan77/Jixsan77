@@ -5,7 +5,7 @@ I am Jixsan77. I am a Javascript Developer
 - 🔭 I’m currently working on Multipurpose Bots
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with Html & CSS
-- 📫 How to reach me: Discord -> Jixsan77#1744
+- 📫 How to reach me: <a href="https://discord.com/users/760447160772067338">Discord: Peter_#4444</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Gamer too.
 ### Languages and Tools:
