@@ -8,10 +8,8 @@ I am Jixsan77. I am a Javascript Developer
 - 📫 How to reach me: <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center"> <a href="https://discord.com/users/760447160772067338">Discord: Jixsan77#1744</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Gamer too.
-### Languages and Tools:
+### Statistics:
 
- [![Jixsan's github stats](https://github-readme-stats.vercel.app/api?username=Jixsan77&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterhanania&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"
+ [![Jixsan's github stats](https://github-readme-stats.vercel.app/api?username=Jixsan77&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+   
 
-### General Information
-[![Jixsan's github stats](https://github-readme-stats.vercel.app/api?username=Jixsan77&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
