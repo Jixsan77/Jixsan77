@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Jixsan77. I am a Javascript Developer
 <!--
 **Jixsan77/Jixsan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
