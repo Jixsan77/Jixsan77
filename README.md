@@ -9,8 +9,8 @@ I am Jixsan77. I am a Javascript Developer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Gamer too.
 ### Languages and Tools:
-<a href="https://github.com/peterhanania">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jixsan77&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"  />
+
+ [![Jixsan's github stats](https://github-readme-stats.vercel.app/api?username=Jixsan77&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterhanania&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"
 
 ### General Information
