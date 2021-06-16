@@ -9,7 +9,7 @@ I am Jixsan77. I am a Javascript Developer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Gamer too.
 ### Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colderry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixsan77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### General Information
 [![Jixsan's github stats](https://github-readme-stats.vercel.app/api?username=Jixsan77&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
