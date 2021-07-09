@@ -2,6 +2,13 @@
 
 
 <h3 align="center">Hey there, I'm <a href="https://discord.com/users/760447160772067338">Jixsan77</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+<p align="center">
+  <a href=https://discord.com/users/760447160772067338""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ 
+  <a href="https://instagram.com/jixsan77._"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+   
 ### Heyo 👋
 I am Jixsan77. I am a Javascript Developer
 
