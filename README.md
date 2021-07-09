@@ -5,8 +5,7 @@
 
 <p align="center">
   <a href=https://discord.com/users/760447160772067338""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
- 
-  <a href="https://instagram.com/jixsan77._"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jixsan77._"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
    
 ### Heyo 👋
