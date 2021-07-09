@@ -7,22 +7,44 @@
   <a href=https://discord.com/users/760447160772067338""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/jixsan77._"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
-   
-### Heyo 👋
-I am Jixsan77. I am a Javascript Developer
+# Hello there!
 
-### Personal Information:
-- 🔭 I’m currently working on Multipurpose Bots
+I'm Jixsan77, the guy who is interested in different things!
+
+- :muscle:  Currently creating discord bots and small projects.
+- :gift_heart:  Owner of Alysa Bot.
+- ✊ Not perfect, but i'll be one day.
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with Html & CSS
-- 📫 How to reach me: <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center"> <a href="https://discord.com/users/760447160772067338">Discord: Jixsan77#1744</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Gamer too.
 
 
-### Statistics:
-![Jixsan77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixsan77&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=truetheme=merko)
-![Most USed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixsan77&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true)
 
-   
+## :wrench: Interests
+
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+
+## 🤩 My Community
+
+Maybe grab a drink and come chill with us!
+
+[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)
+
+
+## My Activities
+
+<a style="text-decoration: none;" href="https://github.com/Jixsan77">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Jixsan77&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/Jixsan77">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixsan77&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>   
+
+  ----
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
+</p>
+ 
 
