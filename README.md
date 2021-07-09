@@ -11,9 +11,9 @@
 
 I'm Jixsan77, the guy who is interested in different things!
 
-- :muscle:  Currently creating discord bots and small projects.
+- :muscle: Currently creating Multipurpose Dsicord Bots.
 - :gift_heart:  Owner of Alysa Bot.
-- ✊ Not perfect, but i'll be one day.
+- ✊ Not perfect, but I'll be one day.
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with Html & CSS
 - 😄 Pronouns: He/Him
