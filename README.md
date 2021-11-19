@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sadat Ahamed</h1>
 <h3 align="center">I try to find perfection by my side!!!</h3>
 
-<p align="left"> <img src="" alt="Jixsan77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jixsan77&label=Profile%20views&color=0e75b6&style=flat" alt="Jixsan77" /> </p>
 
 - 🌱 I’m currently learning **Web Devolopment.**
 
