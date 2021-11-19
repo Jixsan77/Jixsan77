@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
+<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" alt="typescript" /> </a> 
 
 </p> 
 
