@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jixsan77&label=Profile%20views&color=0e75b6&style=flat" alt="Jixsan77" /> </p>
 
-- 🌱 I’m currently learning **Web Devolopment.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👨‍💻 Developing Multipurpose Discord Bots like - *@Metrank*
 
-- 📫 How to reach me **ahamedsadat77@yahoo.com**
+- 📫 How to reach me: **ahamedsadat77@yahoo.com**
 
 - ⚡ Fun fact **I think I like to spend time with Github**
 
-<h3 align="left">Languages I Know</h3>
+<h3 align="left">Languages I Know:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
@@ -20,14 +20,14 @@
 
 </p> 
 
-<h3 align="left">Frontend Skills</h3>
+<h3 align="left">Front-end Skills:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 
 </p>
 
-<h3 align="left">Others</h3>
+<h3 align="left">Others:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
