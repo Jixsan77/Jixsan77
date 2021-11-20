@@ -54,13 +54,13 @@
 
  <table>
         <tr>
-           <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekaran1704&" alt="sreekaran1704" /></p></td>
-            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreekaran1704&show_icons=true&locale=en" alt="Sreekaran" /></p></td>
+           <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jixsan77&" alt="jixsan77" /></p></td>
+            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jixsan77&show_icons=true&locale=en" alt="Jisan" /></p></td>
         </tr>
     </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreekaran1704&show_icons=true&locale=en&layout=compact" alt="Sreekaran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jixsan77&show_icons=true&locale=en&layout=compact" alt="Jisan" /></p>
 
 
 
