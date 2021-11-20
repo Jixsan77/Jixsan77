@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/I79zIZz.mp4)](https://github.com/Jixsan77)
+[![MasterHead](https://i.imgur.com/I79zIZz.mp4)](https://sreekaran1704.github.io/Resume-Website/)
 <h1 align="center">Hi 👋, I'm Sadat Ahamed</h1>
 <h3 align="center">I try to find perfection by my side!!!</h3>
 
