@@ -33,19 +33,16 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 </p>
 
-<h3 align="left">My Coding Profiles</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/jixsan77" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/jixsan77?logo=true" height="28px"/> </a>
-</p>
+
 <table>
  <tr>
   <td><h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://linkedin.com/in/sreekaran1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreekaran1704" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_sreekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_sreekaran" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sreekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sreekaran" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sreekaran1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreekaran1704" height="30" width="40" /></a>
+
+<a href="https://instagram.com/sxadat.77_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sxadat77" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jixsan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jixsan77" height="30" width="40" /></a>
+
    </p></td>
  </tr>
  </table>
